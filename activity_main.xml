@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="250dp"
+        android:text="오늘의 메뉴"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="270dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="아침"
+        android:textSize="50dp"
+        android:textColor="#E83C77"/>
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="270dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="점심"
+        android:textSize="50dp"
+        android:textColor="#E83C77"/>
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="270dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="저녘"
+        android:textSize="50dp"
+        android:textColor="#E83C77"/>
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="오늘 수업시간표"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="250dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:text="월    화    수    목    금    토   일"
+        android:textSize="30dp"/>
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
